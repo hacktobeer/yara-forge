@@ -17,7 +17,7 @@ yara_repositories:
      author: "Elastic"
      quality: 75
      branch: "main"
-  - name: "R3c0nst"
+   - name: "R3c0nst"
      url: "https://github.com/fboldewin/YARA-rules/"
      author: "Frank Boldewin"
      quality: 90
